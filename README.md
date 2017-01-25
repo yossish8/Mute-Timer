@@ -2,6 +2,7 @@
 Mute Timer for Windows written in c#
 simple timer app for muting system wide sound
 option to set a timer or specify a specific hour for muting.
+.NET 4.6.2 required !!!
 
 
 this is a small project i built for a friend who wanted this kind of a tool
