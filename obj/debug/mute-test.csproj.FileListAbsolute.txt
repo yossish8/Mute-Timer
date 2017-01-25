@@ -1,0 +1,9 @@
+l:\joseph\documents\visual studio 2015\Projects\mute-test\mute-test\bin\Debug\mute-test.exe.config
+l:\joseph\documents\visual studio 2015\Projects\mute-test\mute-test\bin\Debug\mute-test.exe
+l:\joseph\documents\visual studio 2015\Projects\mute-test\mute-test\bin\Debug\mute-test.pdb
+l:\joseph\documents\visual studio 2015\Projects\mute-test\mute-test\obj\Debug\mute-test.csprojResolveAssemblyReference.cache
+l:\joseph\documents\visual studio 2015\Projects\mute-test\mute-test\obj\Debug\mute_test.Form1.resources
+l:\joseph\documents\visual studio 2015\Projects\mute-test\mute-test\obj\Debug\mute_test.Properties.Resources.resources
+l:\joseph\documents\visual studio 2015\Projects\mute-test\mute-test\obj\Debug\mute-test.csproj.GenerateResource.Cache
+l:\joseph\documents\visual studio 2015\Projects\mute-test\mute-test\obj\Debug\mute-test.exe
+l:\joseph\documents\visual studio 2015\Projects\mute-test\mute-test\obj\Debug\mute-test.pdb
